@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: AnthonyMartinez/anthonyjes-dot-us
 
 media_folder: static/assets
 public_folder: assets
